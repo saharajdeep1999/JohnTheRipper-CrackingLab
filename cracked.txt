@@ -1,0 +1,6 @@
+user:pass123
+user:hello123
+user:admin
+user:qwerty
+
+4 password hashes cracked, 0 left
