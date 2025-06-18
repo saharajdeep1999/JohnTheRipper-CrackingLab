@@ -1,0 +1,6 @@
+Variable	              Used                   In	Purpose
+passwords	            hash_generator.py	      Weak passwords to be hashed
+sha512_crypt	        passlib	Generates       SHA512 Unix-style hash
+--wordlist	          john	                  Wordlist mode (dictionary attack)
+--show	              john	                  Display cracked hashes
+run_john.sh	          Bash script	            Automates full cracking pipeline
